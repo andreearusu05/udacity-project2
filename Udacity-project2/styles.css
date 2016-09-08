@@ -1,0 +1,13 @@
+.body{
+	font-family: 'Lato', sans-serif;
+	background-color: blue;
+	color: red
+}
+
+svg#logo {
+  fill: #666;
+  height: 6vw;
+  margin: 0 auto 0.5em auto;
+  width: 6vw;
+}
+
